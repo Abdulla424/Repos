@@ -1,0 +1,1 @@
+Delete From Группа Where id=6;

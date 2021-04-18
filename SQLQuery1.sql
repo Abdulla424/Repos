@@ -1,0 +1,1 @@
+SELECT AVG(ќценки) AS ќценки FROM ќценки
